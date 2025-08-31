@@ -1,4 +1,4 @@
-# 🚕Django Billing_Details Module (Uber/Ola-style Billing System)
+# Django Billing_Details Module (Uber/Ola-style Billing System)
 
 This project implements a configurable, admin-managed **pricing module** like the one used in services such as Uber/Ola. It calculates the final ride invoice based on **distance**, **time**, **waiting time**, and **day of the week**, with support for **differential pricing**.
 
